@@ -1,40 +1,38 @@
-{
-    "historial": [
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        },
-        {
-            "Titulo": "Reporte de Abril - Mayo de 2020",
-            "link": "https://www.w3schools.com/js/js_json_parse.asp"
-        }
-    ]
-}
+[
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    },
+    {
+        "Titulo": "Reporte de Abril - Mayo de 2020",
+        "link": "https://www.w3schools.com/js/js_json_parse.asp"
+    }
+]
