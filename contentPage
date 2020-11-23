@@ -1,0 +1,13 @@
+{
+        resumen: "RS Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasos: "MC Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasosF1: "MC F1 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasosF2: "MC F2 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasosF3: "MC F3 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasosF4: "MC F4 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        movilidadCasosF5: "MC F5 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        proyecciones: "PY Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        proyeccionesF1: "PY F1 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        proyeccionesF2: "PY F2 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!",
+        alertas: "AL Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis, sit quod repudiandae itaque impedit hic fugiat dolorem aliquam ipsa est possimus rem enim quam officia suscipit rerum animi saepe nisi!"
+    }
